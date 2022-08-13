@@ -1,0 +1,24 @@
+.new_navbar .container {
+  background-color: aqua;
+  height: 90px;
+  width: 1200px;
+  margin: auto;
+}
+.new_navbar .navbar-nav {
+  padding-left: 250px;
+}
+.new_navbar .nav-item {
+  padding: 7px;
+  font-weight: 500;
+}
+
+.new_navbar button {
+  background-color: #e03a3c;
+  width: 130px;
+  height: 40px;
+  border-radius: 7px;
+}
+.new_navbar span {
+  color: #e03a3c;
+  font-size: larger;
+}
